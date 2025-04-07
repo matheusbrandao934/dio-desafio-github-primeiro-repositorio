@@ -1,0 +1,3 @@
+Documento criado meramente para testar meu conhecimento nesse primeiro projeto.
+
+### Se esse documento estiver no GitHub, é porquê deu certo.
